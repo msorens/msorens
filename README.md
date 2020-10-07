@@ -1,11 +1,12 @@
 
 ## Developer, author, TDDer, evangelist, diagrammer, open sourcist ##
 
- - LinkedIn: [profile](https://www.linkedin.com/in/michaelsorens/)
- - Writing: [Articles](http://cleancode.sourceforge.net/wwwdoc/articles.html) and [Wallcharts](http://cleancode.sourceforge.net/wwwdoc/wallcharts.html)
- - Book: [SqlDiffFramework: Now You Can Compare Apples to Oranges!](https://github.com/msorens/SqlDiffFramework/wiki/UserGuide)
- - Book: [TortoiseSVN and Subversion Cookbook](https://assets.red-gate.com/community/books/tortoise-svn-subversion-cookbook-oracle.pdf)
- - Patent: [Printer Usage Profiling](https://patents.justia.com/patent/6317848)
+- LinkedIn: [profile](https://www.linkedin.com/in/michaelsorens/)
+ - Writing: 100+ [Articles](http://cleancode.sourceforge.net/wwwdoc/articles.html) and Handful of [Wallcharts](http://cleancode.sourceforge.net/wwwdoc/wallcharts.html)
+ - Books [SqlDiffFramework: Now You Can Compare Apples to Oranges!](https://github.com/msorens/SqlDiffFramework/wiki/UserGuide), [TortoiseSVN and Subversion Cookbook](https://assets.red-gate.com/community/books/tortoise-svn-subversion-cookbook-oracle.pdf)
+ - Talks: [Authorization and Introspection/OPA Summit@Kubecon 2019](https://www.youtube.com/watch?v=jrrW855xL3s&list=PLJHPZt__YGKeCg3Lew3jvCOuyiUhW25Sk&index=4), [Unit Testing Tips/Go Northwest 2018](https://www.youtube.com/watch?v=bZ53UAN2T58), [UI Unit Testing in the Blink of an Eye/Chef 2019](https://drive.google.com/file/d/1ch_ivlG8mYU3D6YGMwZnAQryKRBfOJp6/view?usp=sharing)
+ - Patent [Printer Usage Profiling](https://patents.justia.com/patent/6317848)
+
 
 <!--
 **msorens/msorens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
