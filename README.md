@@ -1,10 +1,18 @@
-### Hi there 👋
+
+## Developer, author, TDDer, evangelist, diagrammer, open sourcist ##
+<dl>
+<dt>LinkedIn</dt><dd>[profile](https://www.linkedin.com/in/michaelsorens/)</dd>
+<dt>Writing</dt><dd>[Articles](http://cleancode.sourceforge.net/wwwdoc/articles.html) and [Wallcharts](http://cleancode.sourceforge.net/wwwdoc/wallcharts.html)</dd>
+<dt>Book</dt><dd> [SqlDiffFramework: Now You Can Compare Apples to Oranges!](https://github.com/msorens/SqlDiffFramework/wiki/UserGuide)</dd>
+<dt>Book</dt><dd>[TortoiseSVN and Subversion Cookbook](https://assets.red-gate.com/community/books/tortoise-svn-subversion-cookbook-oracle.pdf)</dd>
+<dt>Patent</dt><dd>[Printer Usage Profiling](https://patents.justia.com/patent/6317848)</dd>
+</dl>
 
 <!--
 **msorens/msorens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
