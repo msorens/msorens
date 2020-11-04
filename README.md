@@ -15,8 +15,8 @@
 <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>
+<a href="https://www.perl.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/> </a>
 
  - Passions:
    <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
