@@ -19,16 +19,24 @@
 <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/> </a>
 
  - Passions:
-   + Pushing the World to [Do Better Code Reviews By Lots of Examples](http://cleancode.sourceforge.net/wwwdoc/pullrequests.html)
-   + 100+ [Articles](http://cleancode.sourceforge.net/wwwdoc/articles.html)
-   + A dozen [Wallcharts](http://cleancode.sourceforge.net/wwwdoc/wallcharts.html)
+   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
+   Pushing the World to [Do Better Code Reviews By Lots of Examples](http://cleancode.sourceforge.net/wwwdoc/pullrequests.html)
+   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
+   100+ [Articles](http://cleancode.sourceforge.net/wwwdoc/articles.html)
+   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
+   A dozen [Wallcharts](http://cleancode.sourceforge.net/wwwdoc/wallcharts.html)
  - Books:
-   + [SqlDiffFramework: Now You Can Compare Apples to Oranges!](https://github.com/msorens/SqlDiffFramework/wiki/UserGuide)
-   + [TortoiseSVN and Subversion Cookbook](https://assets.red-gate.com/community/books/tortoise-svn-subversion-cookbook-oracle.pdf)
+   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
+   [SqlDiffFramework: Now You Can Compare Apples to Oranges!](https://github.com/msorens/SqlDiffFramework/wiki/UserGuide)
+   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
+   [TortoiseSVN and Subversion Cookbook](https://assets.red-gate.com/community/books/tortoise-svn-subversion-cookbook-oracle.pdf)
  - Talks:
-   + [Authorization and Introspection/OPA Summit@Kubecon 2019](https://www.youtube.com/watch?v=jrrW855xL3s&list=PLJHPZt__YGKeCg3Lew3jvCOuyiUhW25Sk&index=4)
-   + [Unit Testing Tips/Go Northwest 2018](https://www.youtube.com/watch?v=bZ53UAN2T58)
-   + [UI Unit Testing in the Blink of an Eye/Chef 2019](https://drive.google.com/file/d/1ch_ivlG8mYU3D6YGMwZnAQryKRBfOJp6/view?usp=sharing)
+   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
+   [Authorization and Introspection/OPA Summit@Kubecon 2019](https://www.youtube.com/watch?v=jrrW855xL3s&list=PLJHPZt__YGKeCg3Lew3jvCOuyiUhW17Sk&index=4)
+   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
+   [Unit Testing Tips/Go Northwest 2018](https://www.youtube.com/watch?v=bZ53UAN2T58)
+   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="17" height="17">
+   [UI Unit Testing in the Blink of an Eye/Chef 2019](https://drive.google.com/file/d/1ch_ivlG8mYU3D6YGMwZnAQryKRBfOJp6/view?usp=sharing)
  - Patent: [Printer Usage Profiling](https://patents.justia.com/patent/6317848)
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
