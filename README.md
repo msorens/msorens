@@ -1,5 +1,5 @@
 
-## Developer, author, TDDer, evangelist, diagrammer, open sourcist <a href="https://linkedin.com/in/michaelsorens" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michaelsorens" height="30" width="40" /></a><a href="https://stackoverflow.com/users/115690" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="115690" height="30" width="40" /></a>
+## Developer, author, TDDer, evangelist, diagrammer, open sourcist <a href="https://linkedin.com/in/michaelsorens" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michaelsorens" height="30" width="40" /></a><a href="https://stackoverflow.com/users/115690" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="115690" height="30" width="40" /></a> (top 1%)
 
 <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -18,16 +18,17 @@
 <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/perl/perl-icon.svg" alt="perl" width="40" height="40"/> </a>
 
- - Writing:
- 100+ [Articles](http://cleancode.sourceforge.net/wwwdoc/articles.html) and
- Handful of [Wallcharts](http://cleancode.sourceforge.net/wwwdoc/wallcharts.html)
+ - Passions:
+   + Pushing the World to [Do Better Code Reviews By Lots of Examples](http://cleancode.sourceforge.net/wwwdoc/pullrequests.html)
+   + 100+ [Articles](http://cleancode.sourceforge.net/wwwdoc/articles.html)
+   + A dozen [Wallcharts](http://cleancode.sourceforge.net/wwwdoc/wallcharts.html)
  - Books:
- [SqlDiffFramework: Now You Can Compare Apples to Oranges!](https://github.com/msorens/SqlDiffFramework/wiki/UserGuide),
-[TortoiseSVN and Subversion Cookbook](https://assets.red-gate.com/community/books/tortoise-svn-subversion-cookbook-oracle.pdf)
+   + [SqlDiffFramework: Now You Can Compare Apples to Oranges!](https://github.com/msorens/SqlDiffFramework/wiki/UserGuide)
+   + [TortoiseSVN and Subversion Cookbook](https://assets.red-gate.com/community/books/tortoise-svn-subversion-cookbook-oracle.pdf)
  - Talks:
-[Authorization and Introspection/OPA Summit@Kubecon 2019](https://www.youtube.com/watch?v=jrrW855xL3s&list=PLJHPZt__YGKeCg3Lew3jvCOuyiUhW25Sk&index=4),
-[Unit Testing Tips/Go Northwest 2018](https://www.youtube.com/watch?v=bZ53UAN2T58),
-[UI Unit Testing in the Blink of an Eye/Chef 2019](https://drive.google.com/file/d/1ch_ivlG8mYU3D6YGMwZnAQryKRBfOJp6/view?usp=sharing)
+   + [Authorization and Introspection/OPA Summit@Kubecon 2019](https://www.youtube.com/watch?v=jrrW855xL3s&list=PLJHPZt__YGKeCg3Lew3jvCOuyiUhW25Sk&index=4)
+   + [Unit Testing Tips/Go Northwest 2018](https://www.youtube.com/watch?v=bZ53UAN2T58)
+   + [UI Unit Testing in the Blink of an Eye/Chef 2019](https://drive.google.com/file/d/1ch_ivlG8mYU3D6YGMwZnAQryKRBfOJp6/view?usp=sharing)
  - Patent: [Printer Usage Profiling](https://patents.justia.com/patent/6317848)
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
